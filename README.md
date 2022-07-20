@@ -17,7 +17,10 @@
 - Kamianets-Podilskyi National Ivan Ohiienko University  
 *Faculty of foreign philology (English teacher)*
 
-### Courses
+#### Courses
+- *EPAM* RS School: Javasript + React + Typescript
+- *Udemy* Ivan Petrychenko: Full course Javascript + React
+- *Udemy* Bogdan Stashchuk: React + Redux + Typescript
 ---
 
 #### Skills

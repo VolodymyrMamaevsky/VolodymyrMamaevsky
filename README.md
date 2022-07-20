@@ -15,18 +15,17 @@
 #### Education:
 
 - Kamianets-Podilskyi National Ivan Ohiienko University  
-*Faculty of foreign philology (English teacher)*
+*Faculty of foreign philology (***English teacher***)*
 
 #### Courses:
-- *EPAM* RS School: Javasript + React + Typescript
-- *Udemy* Ivan Petrychenko: Full course Javascript + React
-- *Udemy* Bogdan Stashchuk: React + Redux + Typescript
+- ***EPAM*** RS School: Javasript + React + Typescript
+- ***Udemy*** Ivan Petrychenko: Full course Javascript + React
+- ***Udemy*** Bogdan Stashchuk: React + Redux + Typescript
 
 ---
 #### Hard skills:
 
-- HTML
-- CSS
+- HTML + CSS
 - JavaScript
 - React
 - Typescript
@@ -42,6 +41,7 @@
 - Diagnosis and correction of software / hardware faults.
 - Laying UTP/FTP cables inside the building.
 - Maintenance of PC, MFP, Network equipment.
+
 
 *QA Engineer*
 - Developing functional and non‑functional tests.

@@ -14,7 +14,7 @@ Software Engineer
 ---
 #### Education
 
-Kamianets-Podilskyi National Ivan Ohiienko University
+  Kamianets-Podilskyi National Ivan Ohiienko University
 Faculty of foreign philology (English teacher)
 
 ---

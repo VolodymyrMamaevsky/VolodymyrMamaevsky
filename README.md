@@ -40,8 +40,7 @@ QA Engineer
 - Developing functional and non‑functional tests.
 - Creating positive and negative test cases, bug reports, checklists.
 - Testing UI/UX: design compliance, cross-browser compatibility.
-- Testing localized versions: translation accuracy.       
--                                 
+- Testing localized versions: translation accuracy.                                       
 ---
 
 #### Code Example

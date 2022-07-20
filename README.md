@@ -10,7 +10,6 @@ Software Engineer
 - E-mail: vova.moder@gmail.com
 - GitHub: VladimirMamaevsky
 - Discord: Vladimir M.#0917
-- Date of birth: 12.06.1987
 
 ---
 

@@ -39,6 +39,12 @@ System administrator:
 - Laying UTP/FTP cables inside the building.
 - Maintenance of PC, MFP, Network equipment.
 
+QA Engineer
+- Developing functional and non‑functional tests.
+- Creating positive and negative test cases, bug reports, checklists.
+- Testing UI/UX: design compliance, cross-browser compatibility.
+- Testing localized versions: translation accuracy.       
+-                                 
 ---
 
 #### Code Example

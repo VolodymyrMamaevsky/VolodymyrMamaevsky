@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Mamaevsky Vladimir
+Software Engineer
 
 ---
 

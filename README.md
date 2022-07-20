@@ -8,7 +8,6 @@
 - Location: Chernovtsy, Ukraine
 - Phone: +380956075128 (Viber, WhatsApp, Telegram)
 - E-mail: vova.moder@gmail.com
-- GitHub: VladimirMamaevsky
 - Discord: Vladimir M.#0917
 
 ---

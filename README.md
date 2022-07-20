@@ -17,6 +17,7 @@
 - Kamianets-Podilskyi National Ivan Ohiienko University  
 *Faculty of foreign philology (English teacher)*
 
+### Courses
 ---
 
 #### Skills

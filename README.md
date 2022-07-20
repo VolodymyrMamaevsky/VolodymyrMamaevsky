@@ -12,13 +12,10 @@ Software Engineer
 - Discord: Vladimir M.#0917
 
 ---
+#### Education
 
-#### About me
-
-- Perfect communication skills.
-- Responsible team player.
-- Highly motivated and attentive to details worker.
-- Knowledge of many pc programs and different operating systems.
+Kamianets-Podilskyi National Ivan Ohiienko University
+Faculty of foreign philology (English teacher)
 
 ---
 
@@ -61,11 +58,12 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 ```
 
 ---
+#### About me
 
-#### Education
-
-Kamianets-Podilskyi National Ivan Ohiienko University
-Faculty of foreign philology (English teacher)
+- Perfect communication skills.
+- Responsible team player.
+- Highly motivated and attentive to details worker.
+- Knowledge of many pc programs and different operating systems.
 
 ---
 

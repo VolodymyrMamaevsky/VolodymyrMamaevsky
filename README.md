@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Mamaevsky Vladimir
 Software Engineer
 
@@ -29,11 +27,9 @@ Software Engineer
 
 - HTML
 - CSS
-- JavaScript (Basic)
-- Git
-- Figma
-- React (Basic)
-
+- JavaScript
+- React
+- Typescript
 ---
 
 #### Work experience

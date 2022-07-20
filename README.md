@@ -31,7 +31,7 @@
 - React
 - Typescript
 - *SCSS, Gulp, Webpack*
-<a target="_blank" href="https://www.codewars.com/users/VladimirMamaevsky">
+<a href="https://www.codewars.com/users/VladimirMamaevsky" target="_blank">
   <img height=30 alt="Codewars" src="https://www.codewars.com/users/VladimirMamaevsky/badges/large?logo=false"/>
 </a>  
 

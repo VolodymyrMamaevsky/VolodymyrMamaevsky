@@ -1,4 +1,4 @@
-## Mamaevsky Vladimir
+## 👋 Hi, everyone! I'm Mamaevsky Vladimir  
 Software Engineer
 
 ---

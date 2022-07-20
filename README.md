@@ -2,8 +2,6 @@
 
 ## Mamaevsky Vladimir
 
-![](https://s1.hostingkartinok.com/uploads/images/2022/03/32b04bc114ddeb64a897a362ad455778.jpg)
-
 ---
 
 #### Personal information

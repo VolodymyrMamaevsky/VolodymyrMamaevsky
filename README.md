@@ -20,7 +20,7 @@
 - ***EPAM*** RS School: Javasript + React + Typescript
 - ***Udemy*** Ivan Petrychenko: Web-developer (HTML+CSS, Gulp, SCSS)
 - ***Udemy*** Ivan Petrychenko: Full course Javascript + React
-- ***Udemy*** Bogdan Stashchuk: React + Redux + Typescript
+- ***Udemy*** Bogdan Stashchuk: Full course React + Redux + Typescript
 
 ---
 #### Hard skills:

@@ -5,7 +5,7 @@
 ---
 #### Personal information:
 
-- Location: Chernovtsy, Ukraine
+- Location: Kyiv, Ukraine
 - Phone: +380956075128 (Viber, WhatsApp, Telegram)
 - E-mail: vova.moder@gmail.com
 - Discord: Vladimir M.#0917

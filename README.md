@@ -37,7 +37,7 @@
 ---
 #### Work experience:
 
-*System administrator*
+*System Engineer*
 - Diagnosis and correction of software / hardware faults.
 - Laying UTP/FTP cables inside the building.
 - Maintenance of PC, MFP, Network equipment.

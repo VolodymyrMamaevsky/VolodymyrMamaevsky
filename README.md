@@ -14,7 +14,7 @@
 #### Education:
 
 - Kamianets-Podilskyi National Ivan Ohiienko University  
-*Faculty of foreign philology, Bachelor degree (***English teacher***)*
+*Faculty of foreign philology, Master's degree (***English teacher***)*
 
 #### Courses:
 - ***EPAM*** RS School: Javasript + React + Typescript

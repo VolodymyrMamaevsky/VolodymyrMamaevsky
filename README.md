@@ -8,7 +8,7 @@
 - Location: Kyiv, Ukraine
 - Phone: +380956075128 (Viber, WhatsApp, Telegram)
 - E-mail: vova.moder@gmail.com
-- Discord: Vladimir M.#0917
+- Discord: Mamaevsky#0917
 
 ---
 #### Education:

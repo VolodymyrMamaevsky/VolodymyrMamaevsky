@@ -37,6 +37,7 @@
 - Testing UI/UX: design compliance, cross-browser compatibility.
 - Testing localized versions: translation accuracy.   
   
+    
 *System Engineer (Ukrtelecom, april 2014 - august 2018)*
 - Diagnosis and correction of software / hardware faults.
 - Laying UTP/FTP cables inside the building.

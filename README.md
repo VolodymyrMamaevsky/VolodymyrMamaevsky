@@ -15,7 +15,7 @@
 #### Education:
 
 - Kamianets-Podilskyi National Ivan Ohiienko University  
-*Faculty of foreign philology, Master's degree (***English teacher***)*,
+*Faculty of foreign philology, Master's degree (***English teacher***)*  
 *sept.2005 - may.2010*
 
 #### Courses:

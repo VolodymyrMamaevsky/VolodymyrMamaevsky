@@ -8,7 +8,7 @@
 - Location: Kyiv, Ukraine
 - Phone: +380956075128 (Viber, WhatsApp, Telegram)
 - E-mail: vova.moder@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/volodymyr-mamaevsky-ab8381208/" target="_blank">Volodymyr Mamaevsky</a>
+- LinkedIn: [Volodymyr Mamaevsky](https://www.linkedin.com/in/volodymyr-mamaevsky-ab8381208/)
 - Discord: Mamaevsky#0917
 
 ---

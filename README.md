@@ -54,7 +54,7 @@
 
 ---
 
-- Codewars👇
+- Codewars
 <a href="https://www.codewars.com/users/VolodymyrMamaevsky" target="_blank">
   <img height=30 alt="Codewars" src="https://www.codewars.com/users/VolodymyrMamaevsky/badges/large?logo=false"/>
 </a> 

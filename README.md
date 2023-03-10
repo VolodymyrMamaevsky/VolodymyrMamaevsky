@@ -31,7 +31,7 @@
 ---
 #### Work experience:
 
-*QA Engineer (Genesis, october 2018 - may 2022)*
+***QA Engineer** (Genesis, october 2018 - may 2022)*
 - Developing functional and non‑functional tests.
 - Creating positive and negative test cases, bug reports, checklists.
 - Testing UI/UX: design compliance, cross-browser compatibility.

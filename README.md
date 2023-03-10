@@ -22,9 +22,8 @@
 - ***Udemy*** Ivan Petrychenko: Web-developer (HTML+CSS, Gulp, SCSS)
 - ***Udemy*** Ivan Petrychenko: Full course Javascript + React
 - ***Udemy*** Bogdan Stashchuk: Full course React + Redux + Typescript
-
-Codewars
-<a href="https://www.codewars.com/users/VolodymyrMamaevsky">
+---
+- Codewars <a href="https://www.codewars.com/users/VolodymyrMamaevsky">
   <img height=30 alt="Codewars" src="https://www.codewars.com/users/VolodymyrMamaevsky/badges/large?logo=false"/>
 </a> 
 

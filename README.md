@@ -23,7 +23,7 @@
 - ***Udemy*** Ivan Petrychenko: Full course Javascript + React
 - ***Udemy*** Bogdan Stashchuk: Full course React + Redux + Typescript
 ---
-- ***Codewars*** 
+***Codewars*** 
 <a href="https://www.codewars.com/users/VolodymyrMamaevsky">
   <img height=30 alt="Codewars" src="https://www.codewars.com/users/VolodymyrMamaevsky/badges/large?logo=false"/>
 </a> 

@@ -45,7 +45,7 @@
 - Laying UTP/FTP cables inside the building.
 - Maintenance of PC, MFP, Network equipment.
 
-  ***Technical Support Specialist** (UkrNet, sept 2012 - march 2014)*
+***Technical Support Specialist** (UkrNet, sept 2012 - march 2014)*
 
 ---
 #### Languages:

@@ -1,4 +1,4 @@
-<a href="https://u8views.com/github/VolodymyrMamaevsky"><img src="https://u8views.com/api/v1/github/profiles/92807271/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/VolodymyrMamaevsky"><img src="https://u8views.com/api/v1/github/profiles/92807271/views/day-week-month-total-count.svg"></a> 👈  Click to support UA Army 💙💛
 ### Volodymyr Mamaevsky  
 #### Node.js Developer (***Express, Nest.js, Typescript, React)*** )
  - Highly motivated developer with a keen interest in all things related to the Front-End development. I am keen on writing clean and maintainable code and finding user-friendly solutions. Well organized and capable to adapt to working as part of a development team. I am a quick learner and develop my skills every day. Responsible and attentive to details team player.

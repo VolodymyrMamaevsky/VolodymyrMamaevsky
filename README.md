@@ -2,8 +2,8 @@
 ### Volodymyr Mamaevsky  
 #### Python Developer (***Django, FastAPI, React*** )
 - More than 10 years of experience in IT.
-- Highly motivated developer with a keen interest in all things related to the Backend development. 
-- I have good knowledge of Python (Django, FastAPI), PostgreSQL, Docker. 
+- Highly motivated developer with a keen interest in all things related to the Back-end development. 
+- I have good knowledge of Python (Django, FastAPI), PostgreSQL, Docker, Linux. 
 - Also have experience with JavaScript (React, Node.js) and Golang. 
 - I learn quickly and improving my skills every day.
 ---

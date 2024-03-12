@@ -1,10 +1,11 @@
 <a href="https://u8views.com/github/VolodymyrMamaevsky"><img src="https://u8views.com/api/v1/github/profiles/92807271/views/day-week-month-total-count.svg"></a> 👈  Click to support UA Army 💙💛
 ### Volodymyr Mamaevsky  
-#### Node.js Developer (***Express, Nest.js, Typescript, React)*** )
+#### Python Developer (***Django, FastAPI, React*** )
 - More than 10 years of experience in IT.
 - Highly motivated developer with a keen interest in all things related to the Backend development. 
-I have good knowledge of JavaScript, Typescript, Node.js, Nest.js, React. Also have experience with Python and Golang. 
-I learn quickly and improving my skills every day.
+- I have good knowledge of Python (Django, FastAPI), PostgreSQL, Docker. 
+- Also have experience with JavaScript (React, Node.js) and Golang. 
+- I learn quickly and improving my skills every day.
 ---
 #### Personal information:
 

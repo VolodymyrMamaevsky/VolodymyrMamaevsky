@@ -10,10 +10,9 @@
 #### Personal information:
 
 - Location: Kyiv, Ukraine
-- Phone: +380956075128 (Viber, WhatsApp, Telegram)
+- Phone: +38 (095) 607-51-28 (Viber, WhatsApp, Telegram)
 - E-mail: vova.moder@gmail.com
 - LinkedIn: [Volodymyr Mamaevsky](https://www.linkedin.com/in/volodymyr-mamaevsky-ab8381208/)
-- Discord: Mamaevsky#0917
 
 ---
 #### Education:
@@ -24,11 +23,10 @@
 
 #### Courses:
 - ***EPAM*** RS School: Javasript + React + Typescript + Node.js
-- ***Udemy*** Bogdan Stashchuk: Node.js + Typescript
-- ***Udemy*** Ivan Petrychenko: Web-developer (HTML+CSS, Gulp, SCSS)
+- ***Udemy*** Bogdan Stashchuk: Python, Django, Data Science
 - ***Udemy*** Ivan Petrychenko: Full course Javascript + React
-
-
+- ***Udemy*** Ivan Petrychenko: Web-developer (HTML+CSS, Gulp, SCSS)
+  
 <a href="https://www.codewars.com/users/VolodymyrMamaevsky">
   <img height=30 alt="Codewars" src="https://www.codewars.com/users/VolodymyrMamaevsky/badges/large?logo=false"/>
 </a> 

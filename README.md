@@ -1,4 +1,3 @@
-<a href="https://u8views.com/github/VolodymyrMamaevsky"><img src="https://u8views.com/api/v1/github/profiles/92807271/views/day-week-month-total-count.svg"></a> 👈  Click to support UA Army 💙💛
 ### Volodymyr Mamaevsky  
 #### Python Developer (***Django, FastAPI, React*** )
 - More than 10 years of experience in IT.
